@@ -1,0 +1,18 @@
+{
+  "name": "mathnasiumapptrialone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liveschool-points.js",
+  "scripts": {
+    "build":"browserify liveschool-points.js -o bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}

@@ -1,0 +1,134 @@
+html {
+    height: 100%;
+    width: 50%;
+  }
+  
+  body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-items: center;
+    align-items: center;
+
+  }
+
+#mainHolder {
+    height: 100%;
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+    position:relative; left: 50%;
+
+}
+
+#name {
+    width: 80%;
+    color: black;
+    font-weight: bold;
+    font-size: 200%;
+    position:relative; left: 27%;
+
+}
+
+#liveschoolText {
+    color: black;
+    width: 80%;
+    font-weight: normal;
+    font-size: 150%;
+    position: relative; left: 27%; 
+}
+#liveschool {
+    
+    height: 75px;
+    width: 75px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    background-color: lightcoral;
+    font-size: 125%;
+    color: black;
+    /* border-radius: 100%; */
+
+    position: relative; left: 410%;
+   
+   
+}
+#comment {
+    color: black;
+    width: 80%;
+    font-weight: normal;
+    font-size: 150%;
+    position: relative; left: 25%; 
+
+}
+
+#comment1 {
+    width: 100%;
+    height:10%;
+    line-height:1.5em;
+    overflow:scroll;
+    padding:5px;
+    background-color:#FCFADD;
+    color:black;
+    border:4px double black;
+    
+
+
+}
+#comment2 {
+    width: 100%;
+    height:10%;
+    line-height:1.5em;
+    overflow:scroll;
+    padding:5px;
+    background-color:#FCFADD;
+    color: black;
+    border:4px double black;
+
+}
+#comment3 {
+    width: 100%;
+    height:10%;
+    line-height:1.5em;
+    overflow:scroll;
+    padding:5px;
+    background-color:#FCFADD;
+    color: black;
+    border:4px double black;
+ 
+}
+#comment4 {
+    width: 100%;
+    height:10%;
+    line-height:1.5em;
+    overflow:scroll;
+    padding:5px;
+    background-color:#FCFADD;
+    color: black;
+    border:4px double black;
+
+}
+#comment5 {
+    width: 100%;
+    height:10%;
+    line-height:1.5em;
+    overflow:scroll;
+    padding:5px;
+    background-color:#FCFADD;
+    color: black;
+    border:4px double black;
+}
+#login-form-submit {
+    width: 30%;
+    height: 5%;
+    padding: 5px 5px 5px;
+    border: none;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    position:relative; left: 163%; top: 20%
+  }
+
+ 
